@@ -3,5 +3,5 @@
  
  This crawler will crawl to websites and download their `.html` sites and store them in html folder. 
  
- And if website have `robots.txt` or `sitemap.xml`, the website's `hostname` will be stored in `list_robots` or `list_sitemap`
+ And if website have `robots.txt` or `sitemap.xml`, the website's `hostname` will be stored in `list_robots` or `list_sitemap`.
  
